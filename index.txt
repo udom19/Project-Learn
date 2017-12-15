@@ -1,3 +1,4 @@
 This text was written in feature-1 branch
 This text was written in feature-2 branch
+This text was written in feature-3 branch
 
